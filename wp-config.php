@@ -19,8 +19,12 @@
  */
 
 // coment by ridho ====
+
 //komen kedua pertama Dhery
 //komen kedua kedua dhery
+
+//coment by ridho
+//coment by ridho
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
