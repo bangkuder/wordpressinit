@@ -28,7 +28,7 @@
 
 		<header id="masthead" class="site-header" role="banner">
 			<div class="site-header-main">
-				<?php echo "Ini Kerjaan Dhery" ?>
+				<?php echo "Ini Kerjaan Branch Fitur Y" ?>
 				<div class="site-branding">
 					<?php twentysixteen_the_custom_logo(); ?>
 
